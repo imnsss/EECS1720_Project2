@@ -217,4 +217,4 @@ async def rps(ctx, user_choice):
 
 
 keep_alive()
-client.run('OTQ3NTc3NTQ1NDUxMjQ5NjY0.YhvSWw.1UmASNjYeLz8e_lmpBAzxULS09o')
+client.run('TOKEN')
