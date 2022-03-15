@@ -215,4 +215,4 @@ async def rps(ctx, user_choice):
             await ctx.send(f"Okay, we tied :P\n\nYour choice: {user_choice}\nMy choice: {bot_choice}")  
 
 
-client.run('OTQ3NTc3NTQ1NDUxMjQ5NjY0.YhvSWw.1Wr0umcV8qjY_HdAEnhpnh7eg1I')
+client.run('TOKEN')
